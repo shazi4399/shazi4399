@@ -7,7 +7,7 @@
 
 ### Hello,shazi 👋
 
-- :orange_book: Focusing on MPC && Private Computing && 
+- :orange_book: Focusing on Cryptography && Private Computing  
 - :hammer: Creator of applications and frameworks
 - 🌱 Learning ML and DL
 - :meat_on_bone: Meat lover
